@@ -1,0 +1,49 @@
+html {
+  font-family: comic-sans MS
+}
+
+h1 {
+	color: white;
+	background: black;
+	text-align: center;
+	font-family: "Comic Sans MS", "Comic Sans";
+	border: 5px solid red;
+}
+
+h2 {
+	color: red;
+	background: yellow;
+	font-family: "Comic Sans MS", "Comic Sans";
+}
+
+h3 {
+	color: black;
+	background: white;
+	font-family: "Comic Sans MS", "Comic Sans";
+	text-align: center;
+}
+	
+body {
+	background-color: black;
+	background-image: url("https://i.ibb.co/vc99Bgq/Screenshot-20200407-123354.png");
+	/*background-repeat: no-repeat;*/
+	/*background-size: cover;*/
+	font-family: "Comic Sans MS", "Comic Sans";
+}
+
+img {
+	transform: rotate(10deg);
+	max-width: 200px;
+	max-height: 200px;
+	margin: 1.5rem 0;
+}
+
+li {
+    margin-top: .25rem;
+}
+
+ul {
+  background-color: white;
+  background-image: url("./img1.png");
+  background-size: cover;
+}
